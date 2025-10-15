@@ -1,0 +1,110 @@
+iPhone 17 Air — Product Details (Sample / Template)
+
+Overview
+--------
+The iPhone 17 Air is presented here as a sample/speculative template intended for demonstrations, documentation, or upload to Google Colab. Use this document as-is or edit to fit real product data.
+
+Key Features
+------------
+- Model name: iPhone 17 Air
+- Category: Ultra-light flagship (hypothetical/sample)
+- Target user: Consumers who want a thin, lightweight phone with strong battery life and great camera performance.
+
+Technical Specifications (sample)
+---------------------------------
+Display:
+- Type: 6.3-inch Super Retina XDR OLED
+- Resolution: 2796 x 1290 pixels
+- Refresh rate: 120 Hz adaptive ProMotion
+- Brightness: Up to 2000 nits peak HDR
+
+Processor & Performance:
+- Chipset: A18 Bionic (sample)
+- CPU: 8-core (4 performance, 4 efficiency)
+- Neural Engine: 16-core
+- RAM: 8 GB (sample)
+- Storage options: 128 GB, 256 GB, 512 GB
+
+Camera:
+- Rear:
+  - Main: 48 MP, f/1.6, sensor-shift OIS
+  - Ultra-wide: 12 MP, 120° field of view
+  - Telephoto: 12 MP, 3x optical zoom
+  - LiDAR scanner for depth and AR
+- Front:
+  - 12 MP TrueDepth, Face ID
+
+Battery & Charging:
+- Battery capacity: ~4200 mAh (sample)
+- Battery life: Up to 22 hours video playback (sample)
+- Charging: MagSafe wireless charging, 30W wired fast charging support
+
+Connectivity:
+- 5G (sub-6GHz + mmWave where supported)
+- Wi‑Fi 6E
+- Bluetooth 5.4
+- UWB (Ultra Wideband)
+
+Operating System & Software:
+- iOS 19 (sample/latest at time of writing)
+- Regular OS updates and security patches
+
+Build & Design:
+- Materials: Aerospace-grade aluminum frame, reinforced glass back
+- Weight: ~160g (sample)
+- Colors (sample): Midnight, Starlight, Pacific Blue, Sunset Gold
+
+Other Features:
+- IP68 dust and water resistance
+- Stereo speakers with Spatial Audio
+- Face ID biometric authentication
+- Environmental: Uses recycled materials in chassis and packaging
+
+iPhone (Standard) — Product Details (Sample / Template)
+
+Overview
+--------
+This section contains a general sample template for a standard "iPhone" model. Replace with the exact model name (e.g., iPhone 17, iPhone 16) and real specifications if needed.
+
+Key Features
+------------
+- Model name: iPhone (standard) — example placeholder
+- Category: Flagship / mainstream
+- Target user: General consumers who want a balanced device with great performance and cameras.
+
+Technical Specifications (sample)
+---------------------------------
+Display:
+- Type: 6.1-inch Super Retina XDR OLED
+- Resolution: 2556 x 1179 pixels
+- Refresh rate: 60–120 Hz adaptive (depending on model)
+- Brightness: Up to 1600 nits peak HDR
+
+Processor & Performance:
+- Chipset: A18 / A18 Pro (sample)
+- CPU: 6–8 core (sample)
+- RAM: 6–8 GB (sample)
+- Storage options: 128 GB, 256 GB, 512 GB
+
+Camera:
+- Rear:
+  - Main: 48 MP or 12 MP depending on model (sample)
+  - Ultra-wide: 12 MP
+  - Telephoto: present in Pro models
+- Front:
+  - 12 MP TrueDepth camera, Face ID
+
+Battery & Charging:
+- Battery capacity: ~3800 mAh (sample)
+- Charging: MagSafe and wired fast charging support
+
+Connectivity:
+- 5G, Wi‑Fi 6E or Wi‑Fi 7 (sample), Bluetooth 5.x
+
+Operating System:
+- iOS 19 (sample)
+
+Build & Design:
+- Materials: Glass and aluminum or stainless steel (Pro)
+- Weight: ~170–205g (sample)
+
